@@ -1,0 +1,11 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/build
+/packages
+//SeleniumWebDriverBasics/vs
+/SeleniumWebDriverBasics/obj
+/SeleniumWebDriverBasics/bin
+/SeleniumWebDriverBasics/obj
+/SeleniumWebDriverBasics/bin
+*.suo
+/SeleniumWebDriverBasics.v12.suo
+/SeleniumWebDriverBasics.v12.suo
